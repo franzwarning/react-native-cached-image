@@ -1,3 +1,5 @@
+FORK OF FUNGILATION. ADDED NET NETINFO ^3.2.1
+
 # react-native-cached-image
 
 CachedImage component for react-native
